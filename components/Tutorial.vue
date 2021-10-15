@@ -1,0 +1,5 @@
+<template>
+  <div>
+    <h3>teste</h3>
+  </div>
+</template>
