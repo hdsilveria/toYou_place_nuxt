@@ -1,5 +1,6 @@
 <template>
-  <div>teste
+  <div>
     <Nuxt />
+    teste 22
   </div>
 </template>
