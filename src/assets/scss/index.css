@@ -13982,4 +13982,35 @@ input[type="color"].form-control:disabled {
 h3 {
   color: #8b4dc1;
 }
+
+.row {
+  margin-left: 0px !important;
+  margin-right: 0px !important;
+}
+
+.menuNav {
+  background: #4f9092;
+  background: linear-gradient(166deg, #4f9092 0%, #727ca2 61%);
+  color: white !important;
+}
+
+button.btn.dropdown-toggle.btn-secondary {
+  background-color: #00000000;
+  border: #00000000;
+}
+
+button.btn.dropdown-toggle.btn-secondary:active {
+  background-color: #00000000;
+  border: none;
+}
+
+button.btn.dropdown-toggle.btn-secondary:focus {
+  background-color: #00000000;
+  border: #00000000;
+}
+
+.btn:focus {
+  -webkit-box-shadow: none;
+          box-shadow: none;
+}
 /*# sourceMappingURL=index.css.map */
